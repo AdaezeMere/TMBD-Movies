@@ -4,7 +4,7 @@ BY MERE, ADAEZE KASOPE
 
 # **Dataset Description**
 
-This data set contains information about 10,000 movies collected from The Movie Database (TMDB), including user ratings and revenue. It is a compilation of two (2) dataset (movies and credits) to form a dataset. The total number of columns are 23, for the course of this analysis, only 12 columns were used. The datasets is available (here)
+This data set contains information about 10,000 movies collected from The Movie Database (TMDB), including user ratings and revenue. It is a compilation of two (2) dataset (movies and credits) to form a dataset. The total number of columns are 23, for the course of this analysis, only 12 columns were used. The datasets is available (https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
 # **Question(s) for Analysis**
 
